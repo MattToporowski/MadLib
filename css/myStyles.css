@@ -1,0 +1,58 @@
+body {
+	background-color: dodgerblue;
+	text-align: center;
+}
+
+p {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Gugi', cursive;
+	font-size: 40px;
+	color: white;
+}
+
+#madButton {
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+	width: 30%;
+	font-size: 25px;
+	font-family: 'Gugi', cursive;
+	border: 3px solid red;
+	background-color: white;
+	color: red;
+}
+
+#picture {
+	width: 750px;
+	border: 3px solid white;
+}
+
+#finalMadLib {
+
+	margin-top: 5%;
+	font-family: 'Gugi', cursive;
+	font-size: 20px;
+	color: white;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.c {
+
+	color: red;
+	font-size: 25px;
+	background-color: white;
+	font-weight: bolder;
+	border-radius: 5px;
+	border: 1px solid red;
+	text-align: center;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
